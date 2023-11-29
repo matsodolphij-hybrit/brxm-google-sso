@@ -1,0 +1,5 @@
+definitions:
+  namespace:
+    bloomreachsso:
+      uri: http://www.bloomreachsso.com/bloomreachsso/nt/1.0
+      cnd: namespaces/bloomreach-sso.cnd

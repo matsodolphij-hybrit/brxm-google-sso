@@ -1,0 +1,7 @@
+group: 
+  name: bloomreach-sso
+  after: hippo-cms
+project: bloomreach-sso
+module: 
+  name: bloomreach-sso-repository-data-development
+  after: bloomreach-sso-repository-data-application

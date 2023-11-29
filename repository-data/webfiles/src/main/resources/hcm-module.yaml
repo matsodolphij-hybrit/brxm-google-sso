@@ -1,0 +1,5 @@
+group: 
+  name: bloomreach-sso
+project: bloomreach-sso
+module:
+  name: bloomreach-sso-repository-data-webfiles
