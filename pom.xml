@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.onehippo.cms7</groupId>
     <artifactId>hippo-cms7-release</artifactId>
-    <version>15.2.3</version>
+    <version>15.4.0</version>
   </parent>
 
   <name>Bloomreach SSO</name>
@@ -64,7 +64,7 @@
     <!--<org.springframework.boot-version>2.7.14</org.springframework.boot-version>-->
     <!-- ***END temporary override of versions*** -->
 
-    <essentials.version>15.2.3</essentials.version>
+    <essentials.version>15.4.0</essentials.version>
     <jsp-api.version>2.2</jsp-api.version>
     <taglibs.version>1.2.5</taglibs.version>
 
@@ -374,7 +374,7 @@
                   <sso.enabled>true</sso.enabled>
                   <spring.security.oauth2.client.provider.google.issuer-uri>https://accounts.google.com</spring.security.oauth2.client.provider.google.issuer-uri>
                   <spring.security.oauth2.client.registration.google.client-id>425185663679-2i7rc0bq92uuegb7vbdapv2m19rkp1m0.apps.googleusercontent.com</spring.security.oauth2.client.registration.google.client-id>
-                  <spring.security.oauth2.client.registration.google.client-secret></spring.security.oauth2.client.registration.google.client-secret>
+                  <spring.security.oauth2.client.registration.google.client-secret>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</spring.security.oauth2.client.registration.google.client-secret>
                   <spring.security.oauth2.client.registration.google.scope>openid,email,profile</spring.security.oauth2.client.registration.google.scope>
                 </systemProperties>
               </container>
